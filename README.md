@@ -1,6 +1,6 @@
 - 👋 Hey, eu sou Kaio Felipe
-- 🌱 Estou estudando inglês, empreendedorismo e programação -- visando me tornar full-stack
-- 💞️ Adoro plantas e animais, além de praticar design gráfico e pixel-arte como hobby
+- 🌱 Estou estudando inglês e programação, e pretendo me tornar um dev full-stack
+- 💞️ Adoro plantas e animais, e pratico design gráfico e pixel-arte como hobby
 - 📫 Contate-me: kaiofelipe2005@gmail.com
 
 <!---
